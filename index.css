@@ -1,0 +1,43 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'DM Sans', sans-serif;
+
+    height: 100vh;
+    color: white;
+    background: rgb(2,0,36);
+    background: linear-gradient(180deg,
+     rgba(2,0,36,1) 0%, rgba(9,9,121,1)
+      35%, rgba(0,212,255,1) 100%);
+    font-size: 1.3rem;
+    background-image: url(desktop-wallpaper-login-background-for-android-tip.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.root{
+    padding: 1rem;
+    border: 1px solid black;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+    border-radius: 0.4rem;
+}
+
+.inputs{
+    text-align: left; 
+    padding: 0.5rem
+}
+
+input{
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #000000;
+    border-radius: 0.3rem;
+}
+
+button{
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+}
+
