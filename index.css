@@ -3,7 +3,6 @@ body {
     justify-content: center;
     align-items: center;
     font-family: 'DM Sans', sans-serif;
-
     height: 100vh;
     color: white;
     background: rgb(2,0,36);
@@ -11,9 +10,6 @@ body {
      rgba(2,0,36,1) 0%, rgba(9,9,121,1)
       35%, rgba(0,212,255,1) 100%);
     font-size: 1.3rem;
-    background-image: url(desktop-wallpaper-login-background-for-android-tip.jpg);
-    background-repeat: no-repeat;
-    background-size: 100%;
 }
 
 .root{
@@ -40,4 +36,3 @@ button{
     padding: 0.5rem;
     border-radius: 0.5rem;
 }
-
